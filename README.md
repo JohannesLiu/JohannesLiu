@@ -1,7 +1,18 @@
-### Hi there 👋
+### ✋Hi, this is Xiaokai Liu. 
+
+I am a Computer Science Master student in Huazhong University of Science and Technology.
+
+### ✨ Contact ✨
+
+You can contact me by **xiaokai-liu@uiowa.edu**.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyfshishen&theme=gruvbox_light&show_icons=true&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyfshishen&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
-**JohannesLiu/JohannesLiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**lwshanbd/lwshanbd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
