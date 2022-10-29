@@ -12,13 +12,13 @@ You can contact me by **xiaokai-liu@uiowa.edu**.
 
 <div align="center">
   <a href="https://github.com/JohannesLiu/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lyshark&theme=github" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JohannesLiu&theme=github)" />
   </a>
   <a href="https://github.com/JohannesLiu/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lyshark&theme=github" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JohannesLiu&theme=github" />
   </a>
   <a href="https://github.com/JohannesLiu/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lyshark&theme=github" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JohannesLiu&theme=github" />
   </a>
 </div>
 
