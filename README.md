@@ -2,6 +2,14 @@
 
 I am a Computer Science Master student in Huazhong University of Science and Technology.
 
+### 🌱 I’m Interested in...
+* Artificial Intelligence
+* Computer Security
+* Computer Music
+* Computer Architecture
+* Robotics
+
+
 ### ✨ Contact ✨
 
 You can contact me by **xiaokai-liu@uiowa.edu**.
