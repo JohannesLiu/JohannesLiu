@@ -11,13 +11,13 @@ You can contact me by **xiaokai-liu@uiowa.edu**.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohannesLiu&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <div align="center">
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+  <a href="https://github.com/JohannesLiu/github-profile-summary-cards">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lyshark&theme=github" />
   </a>
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+  <a href="https://github.com/JohannesLiu/github-profile-summary-cards">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lyshark&theme=github" />
   </a>
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+  <a href="https://github.com/JohannesLiu/github-profile-summary-cards">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lyshark&theme=github" />
   </a>
 </div>
