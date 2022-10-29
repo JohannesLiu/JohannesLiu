@@ -9,7 +9,6 @@ I am a Computer Science Master student in Huazhong University of Science and Tec
 * Computer Architecture
 * Robotics
 
-
 ### ✨ Contact ✨
 
 You can contact me by **xiaokai-liu@uiowa.edu**.
