@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 <div align="center">
   <a href="https://github.com/JohannesLiu/github-profile-summary-cards">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JohannesLiu&theme=github)" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JohannesLiu&theme=github" />
   </a>
   <a href="https://github.com/JohannesLiu/github-profile-summary-cards">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JohannesLiu&theme=github" />
